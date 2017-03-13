@@ -2,3 +2,17 @@
   width: 200px;
   height: auto;
 }
+body{
+  background-color:#C5EDAC;
+}
+h1{
+  text-align: center;
+  font-family: "Rubik Mono One", sans-serif;
+  color: #29524A;
+}
+#t1{
+  text-align: center;
+}
+.t2{
+  padding-left: 300px;
+}
