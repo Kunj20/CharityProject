@@ -1,0 +1,21 @@
+h1{
+  text-align: center;
+  font-family: "Rubik Mono One", sans-serif;
+  color: #29524A;
+}
+body{
+  background-color:#C5EDAC;
+}
+#l1{
+  text-align: right;
+  list-style-type: none;
+}
+#i1{
+  width: 250px;
+  height: auto;
+}
+#s1{
+  font-family: "Crete Round", serif;
+  font-size: 40px;
+  padding-right: 50px;
+}
