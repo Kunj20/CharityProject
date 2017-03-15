@@ -9,7 +9,7 @@ body{
 #l1{
   text-align: right;
   list-style-type: none;
-  padding-right:270px;
+  padding-right:500px;
 }
 #i1{
   width: 250px;
@@ -29,4 +29,10 @@ body{
 #s2{
   display: inline-block;
   float: right;
+}
+#p1{
+  padding-left: 300px;
+  float: left;
+  font-family: "Crete Round", serif;
+  width: 650px;
 }
